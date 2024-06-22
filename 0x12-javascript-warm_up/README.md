@@ -1,1 +1,1 @@
-warm up programs for my alx se course more readme's in individual files :)
+this is for the javascript warm up project nothing much :)
