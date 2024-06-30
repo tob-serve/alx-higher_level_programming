@@ -1,1 +1,1 @@
-this is for the javascript warm up project nothing much :)
+0x12. JavaScript - Warm up
